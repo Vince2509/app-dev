@@ -16,3 +16,4 @@
 - "*marami ka pang kakaining bigas*"
 - "*lintik lang ang walang latay*"
 - "*ding! ang bato!*"
+![alt text](beans.jpg)
