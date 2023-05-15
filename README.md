@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 #  My favorite Movie/Series
 1. Forest Gump
 2. Hacksaw Ridge
