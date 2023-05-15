@@ -16,5 +16,6 @@
 - "*marami ka pang kakaining bigas*"
 - "*lintik lang ang walang latay*"
 - "*ding! ang bato!*"
-![alt text]([image.jpg](https://elms.sti.edu/files/8633270/GGG.jpg?lmsauth=85c52e597976994b88aa1fe96e82f9830b1141ba))
+![alt text](image.jpg)
 [Socials](fb.me/vinceconce)
+https://elms.sti.edu/files/8633270/GGG.jpg?lmsauth=85c52e597976994b88aa1fe96e82f9830b1141ba
